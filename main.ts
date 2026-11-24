@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "Every night my dog growls at the empty hallway, but tonight the hallway growled back in my dog's voice.";
+  "For years my dog growled at the empty hallway. Tonight he wagged his tail, trotted in, and I heard my own voice whisper, 'Good boy.'";
 
 // Guard: the entry must be one non-empty line, 1–200 characters. Fail loudly
 // instead of writing an invalid entry (blank, multi-line, or over the limit).

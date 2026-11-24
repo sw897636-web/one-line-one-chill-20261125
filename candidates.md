@@ -143,3 +143,11 @@ builds to the last word.
   Change: "Every night" moved to the front, so the routine is established in
   the first two words and "tonight" pivots against it; the two halves now
   balance (routine / break) and the last word "voice" lands the blow.
+- v4 — FINAL, Quick Smart review REPLACE (132 chars):
+  > For years my dog growled at the empty hallway. Tonight he wagged his tail, trotted in, and I heard my own voice whisper, 'Good boy.'
+  Change: Quick Smart review replaced the v3 final outright. The dog no longer
+  growls — he trusts the thing now, wagging his tail and trotting in — and the
+  thing speaks in the narrator's own voice, not the dog's. More personal and
+  more chilling than v3: the betrayal is the dog's trust, and the voice is
+  mine. 132 characters, one line, no trailing newline, within the 200-character
+  hard limit.
