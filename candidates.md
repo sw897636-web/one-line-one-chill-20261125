@@ -90,9 +90,9 @@ Character counts verified with Python `len()` (no trailing newline).
 | 4 original | 4 | Alarm-as-omen is fresh; "empty house" is familiar |
 | 5 crafted | 3 | Long and slightly tangled; "kitchen" as last word is flat |
 
-## C7 — The hallway growled back (FINAL PICK, v1)
-> Our dog growls at the empty hallway every night, but tonight the hallway growled back, in our dog's voice.
-(106 chars)
+## C7 — The hallway growled back (FINAL PICK, v2)
+> My dog growls at the empty hallway every night, but tonight the hallway growled back in my dog's voice.
+(103 chars)
 
 | Criterion | Score | Note |
 |---|---|---|
@@ -121,7 +121,7 @@ concrete images, but C7's last word ("voice") lands a harder blow than C5's
 "yesterday", and C7's turn is more original — a hallway that growls back in the
 dog's voice has no familiar horror template, while the extra-step house is a
 known trope. Against C8: C8's image is as frightening, but at 157 chars across
-three clauses it sprawls; C7 says it in 106. C7 scores 5 on all five criteria:
+three clauses it sprawls; C7 says it in 103. C7 scores 5 on all five criteria:
 it is horror in one sentence, the dread (the thing learned the dog's voice)
 outlasts the line, every image is concrete, the turn is fresh, and the rhythm
 builds to the last word.
@@ -132,3 +132,9 @@ builds to the last word.
   > Our dog growls at the empty hallway every night, but tonight the hallway growled back, in our dog's voice.
   Problem: "Our dog" is distant; the comma before "in our dog's voice" breaks
   the final phrase, so the last words stumble instead of landing.
+- v2 (103 chars):
+  > My dog growls at the empty hallway every night, but tonight the hallway growled back in my dog's voice.
+  Change: "Our" to "My" (first person, closer); comma before the final phrase
+  removed so "in my dog's voice" lands unbroken. Problem: the sentence still
+  opens mid-routine ("My dog growls... every night") with the time buried
+  mid-clause, so the setup and the break share one flat rhythm.
