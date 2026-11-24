@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "My dog growls at the empty hallway every night, but tonight the hallway growled back in my dog's voice.";
+  "Every night my dog growls at the empty hallway, but tonight the hallway growled back in my dog's voice.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

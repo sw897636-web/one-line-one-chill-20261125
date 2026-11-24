@@ -90,8 +90,8 @@ Character counts verified with Python `len()` (no trailing newline).
 | 4 original | 4 | Alarm-as-omen is fresh; "empty house" is familiar |
 | 5 crafted | 3 | Long and slightly tangled; "kitchen" as last word is flat |
 
-## C7 — The hallway growled back (FINAL PICK, v2)
-> My dog growls at the empty hallway every night, but tonight the hallway growled back in my dog's voice.
+## C7 — The hallway growled back (FINAL PICK)
+> Every night my dog growls at the empty hallway, but tonight the hallway growled back in my dog's voice.
 (103 chars)
 
 | Criterion | Score | Note |
@@ -138,3 +138,8 @@ builds to the last word.
   removed so "in my dog's voice" lands unbroken. Problem: the sentence still
   opens mid-routine ("My dog growls... every night") with the time buried
   mid-clause, so the setup and the break share one flat rhythm.
+- v3 — FINAL (103 chars):
+  > Every night my dog growls at the empty hallway, but tonight the hallway growled back in my dog's voice.
+  Change: "Every night" moved to the front, so the routine is established in
+  the first two words and "tonight" pivots against it; the two halves now
+  balance (routine / break) and the last word "voice" lands the blow.

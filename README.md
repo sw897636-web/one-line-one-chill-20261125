@@ -10,7 +10,7 @@ A [make.fun](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488) entry
 
 ## The entry
 
-> My dog growls at the empty hallway every night, but tonight the hallway growled back in my dog's voice.
+> Every night my dog growls at the empty hallway, but tonight the hallway growled back in my dog's voice.
 
 103 characters, one line, no trailing newline.
 
